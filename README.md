@@ -29,9 +29,9 @@ Para realizar a comunicação entre os componentes e também com o terminal do c
 
 ## Algumas fotos da maquete final
 
-<img src="/Fotos/CasaCompleta.png" alt="Maquete completa" width="600">
-<img src="/Fotos/CasaSemTelhado.png" alt="Maquete sem telhado" width="600">
-<img src="/Fotos/Circuito.png" alt="Circuito montado" width="600">
+<img src="Fotos/CasaCompleta.pdf" alt="Maquete completa" width="600">
+<img src="Fotos/CasaSemTelhado.pdf" alt="Maquete sem telhado" width="600">
+<img src="Fotos/Circuito.pdf" alt="Circuito montado" width="600">
 
 ## Conclusão
 
