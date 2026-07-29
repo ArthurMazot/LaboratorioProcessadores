@@ -27,12 +27,12 @@ Para realizar a comunicação entre os componentes e também com o terminal do c
 - SPI
 - UART
 
-## Algumas fotos da maquete final
-
-<img src="Fotos/CasaCompleta.png" alt="Maquete completa" width="600">
-<img src="Fotos/CasaSemTelhado.png" alt="Maquete sem telhado" width="600">
-<img src="Fotos/Circuito.png" alt="Circuito montado" width="600">
-
 ## Conclusão
 
 Este projeto proporcionou uma experiência prática no desenvolvimento de sistemas embarcados, integrando software e hardware em uma única aplicação. Durante sua execução foi possível aplicar conceitos de programação em microcontroladores, utilização de sensores e atuadores, protocolos de comunicação (I2C, SPI e UART), além da montagem e validação de circuitos eletrônicos.
+
+## Algumas fotos da maquete final
+
+<img src="Fotos/CasaCompleta.png" alt="Maquete completa" width="450">
+<img src="Fotos/CasaSemTelhado.png" alt="Maquete sem telhado" width="450">
+<img src="Fotos/Circuito.png" alt="Circuito montado" width="450">
