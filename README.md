@@ -31,6 +31,11 @@ Para realizar a comunicação entre os componentes e também com o terminal do c
 
 Este projeto proporcionou uma experiência prática no desenvolvimento de sistemas embarcados, integrando software e hardware em uma única aplicação. Durante sua execução foi possível aplicar conceitos de programação em microcontroladores, utilização de sensores e atuadores, protocolos de comunicação (I2C, SPI e UART), além da montagem e validação de circuitos eletrônicos.
 
+## Colaboradores
+
+- Arthur Mazot [https://github.com/ArthurMazot]
+- Sophia Silveira [https://github.com/SophiaSilveira]
+
 ## Algumas fotos da maquete final
 
 <img src="Fotos/CasaCompleta.png" alt="Maquete completa" width="450">
